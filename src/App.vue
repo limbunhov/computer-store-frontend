@@ -14,7 +14,7 @@
     </navbar>
     <div class="logo">
       <RouterLink to="/">
-        <img src="@/assets/image/Logo.png" alt="Logo" />
+        <img src="@/assets/image/logo.png" alt="Logo" />
       </RouterLink>
     </div>
     <nav ref="menubar">
